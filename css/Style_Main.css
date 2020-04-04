@@ -1,0 +1,20 @@
+#div1 {
+    text-align: center;
+}
+#div2{
+    text-align:center;
+    font-size:40px;
+}
+.auto-style1 {
+    width: 1465px;
+    height: 17px;
+}
+#div3{
+    text-align: center;
+}
+#div4 {
+    position:relative;
+    left:500px;
+    top:30px;
+    fontsize:15px;
+}
